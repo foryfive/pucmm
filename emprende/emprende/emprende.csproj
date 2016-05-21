@@ -80,7 +80,6 @@
     <Content Include="Default.aspx" />
     <Content Include="js\jquery-2.2.4.min.js" />
     <Content Include="js\js.js" />
-    <Content Include="js\prueba.js" />
     <Content Include="Login.aspx" />
     <Content Include="js\notify.js" />
     <Content Include="packages.config" />
