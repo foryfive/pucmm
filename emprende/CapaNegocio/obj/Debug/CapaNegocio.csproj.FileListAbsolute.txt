@@ -28,3 +28,13 @@ C:\Users\David\Desktop\pucmm\emprende\CapaNegocio\bin\Debug\CapaEntidades.pdb
 C:\Users\David\Desktop\pucmm\emprende\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
 C:\Users\David\Desktop\pucmm\emprende\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\David\Desktop\pucmm\emprende\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaNegocio\bin\Debug\MySql.Data.dll
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaNegocio\obj\Debug\CapaNegocio.pdb
