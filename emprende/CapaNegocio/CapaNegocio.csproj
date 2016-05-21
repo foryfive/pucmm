@@ -41,6 +41,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Ncarrera.cs" />
+    <Compile Include="Ncategoria.cs" />
+    <Compile Include="Ncomentario.cs" />
+    <Compile Include="Nconfiguracion.cs" />
+    <Compile Include="NpersonaProyecto.cs" />
+    <Compile Include="Npersonas.cs" />
+    <Compile Include="Nproyecto.cs" />
+    <Compile Include="NproyectoCategoria.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="test.cs" />
   </ItemGroup>

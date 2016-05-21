@@ -6,19 +6,20 @@ using System.Threading.Tasks;
 using System.Data;
 using CapaEntidades;
 using CapaDatos;
+
 namespace CapaNegocio
 {
-    public static class Ncarrera
+    public class Nproyecto
     {
-        public static int Sentencia(Ecarrera c)
+        public static int Sentencia(Eproyecto c)
         {
-            Dcarrera ca = new Dcarrera();
-            return ca.Sentencia(c); 
+            Dproyecto ca = new Dproyecto();
+            return ca.Sentencia(c);
         }
 
         public static DataTable Buscar(string b = "")
         {
-            Dcarrera ca = new Dcarrera();
+            Dproyecto ca = new Dproyecto();
             return ca.Buscar(b);
         }
     }
