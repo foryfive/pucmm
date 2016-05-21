@@ -28,3 +28,12 @@ C:\Users\David\Desktop\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.Properties.R
 C:\Users\David\Desktop\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.csproj.GenerateResource.Cache
 C:\Users\David\Desktop\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\David\Desktop\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.Properties.Resources.resources
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.csproj.GenerateResource.Cache
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.pdb

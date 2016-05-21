@@ -11,3 +11,8 @@ C:\Users\David\Desktop\pucmm\emprende\CapaEntidades\bin\Debug\CapaEntidades.dll
 C:\Users\David\Desktop\pucmm\emprende\CapaEntidades\bin\Debug\CapaEntidades.pdb
 C:\Users\David\Desktop\pucmm\emprende\CapaEntidades\obj\Debug\CapaEntidades.dll
 C:\Users\David\Desktop\pucmm\emprende\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\poti1_000\Desktop\pucmm\emprende\CapaEntidades\obj\Debug\CapaEntidades.pdb
