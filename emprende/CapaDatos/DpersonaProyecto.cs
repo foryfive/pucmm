@@ -9,7 +9,7 @@ using CapaEntidades;
 
 namespace CapaDatos
 {
-    class DpersonaProyecto
+    public class DpersonaProyecto
     {
         Conexion con = new Conexion();
         public int Sentencia(EpersonaProyecto per)

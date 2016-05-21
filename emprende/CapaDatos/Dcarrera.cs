@@ -18,6 +18,7 @@ namespace CapaDatos
             cmd.Parameters.Add("id", MySqlDbType.Int32).Value         = c.idcarrera;
             cmd.Parameters.Add("descripcion", MySqlDbType.Text).Value = c.descripcion;
             cmd.Parameters.Add("accion", MySqlDbType.Text).Value      = c.accion;
+            cmd.CommandType = CommandType.StoredProcedure;
 
             try
             {

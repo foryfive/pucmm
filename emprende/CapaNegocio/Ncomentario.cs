@@ -4,21 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data;
-using CapaEntidades;
 using CapaDatos;
+using CapaEntidades;
+
 namespace CapaNegocio
 {
-    public static class Ncarrera
+    public class Ncomentario
     {
-        public static int Sentencia(Ecarrera c)
+        public static int Sentencia(Ecomentario c)
         {
-            Dcarrera ca = new Dcarrera();
-            return ca.Sentencia(c); 
+            Dcomentario ca = new Dcomentario();
+            return ca.Sentencia(c);
         }
 
         public static DataTable Buscar(string b = "")
         {
-            Dcarrera ca = new Dcarrera();
+            Dcomentario ca = new Dcomentario();
             return ca.Buscar(b);
         }
     }
