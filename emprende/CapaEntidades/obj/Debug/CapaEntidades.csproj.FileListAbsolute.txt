@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\pucmm\emprende\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\David\Desktop\pucmm\emprende\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\David\Desktop\pucmm\emprende\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\David\Desktop\pucmm\emprende\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\David\Desktop\pucmm\emprende\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\Alex Rojas\Desktop\pucmm\emprende\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Alex Rojas\Desktop\pucmm\emprende\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Alex Rojas\Desktop\pucmm\emprende\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Alex Rojas\Desktop\pucmm\emprende\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Alex Rojas\pucmm\emprende\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Alex Rojas\pucmm\emprende\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Alex Rojas\pucmm\emprende\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\Alex Rojas\pucmm\emprende\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Alex Rojas\pucmm\emprende\CapaEntidades\obj\Debug\CapaEntidades.pdb

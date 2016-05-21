@@ -1,0 +1,30 @@
+C:\Users\David\Desktop\pucmm\emprende\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\David\Desktop\pucmm\emprende\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\David\Desktop\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\David\Desktop\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\David\Desktop\pucmm\emprende\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\David\Desktop\pucmm\emprende\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\David\Desktop\pucmm\emprende\CapaDatos\bin\Debug\MySql.Data.dll
+C:\Users\David\Desktop\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.Properties.Resources.resources
+C:\Users\David\Desktop\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.csproj.GenerateResource.Cache
+C:\Users\Alex Rojas\Desktop\pucmm\emprende\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Alex Rojas\Desktop\pucmm\emprende\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Alex Rojas\Desktop\pucmm\emprende\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Alex Rojas\Desktop\pucmm\emprende\CapaDatos\bin\Debug\MySql.Data.dll
+C:\Users\Alex Rojas\Desktop\pucmm\emprende\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Alex Rojas\Desktop\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Alex Rojas\Desktop\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.Properties.Resources.resources
+C:\Users\Alex Rojas\Desktop\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.csproj.GenerateResource.Cache
+C:\Users\Alex Rojas\Desktop\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Alex Rojas\Desktop\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Alex Rojas\pucmm\emprende\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Alex Rojas\pucmm\emprende\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Alex Rojas\pucmm\emprende\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Alex Rojas\pucmm\emprende\CapaDatos\bin\Debug\MySql.Data.dll
+C:\Users\Alex Rojas\pucmm\emprende\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Alex Rojas\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Alex Rojas\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.Properties.Resources.resources
+C:\Users\Alex Rojas\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.csproj.GenerateResource.Cache
+C:\Users\Alex Rojas\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Alex Rojas\pucmm\emprende\CapaDatos\obj\Debug\CapaDatos.pdb
