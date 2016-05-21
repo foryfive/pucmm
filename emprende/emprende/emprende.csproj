@@ -79,7 +79,9 @@
     <Content Include="css\BoostrapCustom.css" />
     <Content Include="Default.aspx" />
     <Content Include="js\jquery-2.2.4.min.js" />
+    <Content Include="js\js.js" />
     <Content Include="Login.aspx" />
+    <Content Include="js\notify.js" />
     <Content Include="packages.config" />
     <Content Include="bootstrap-3.3.6-dist\css\bootstrap-theme.css.map" />
     <Content Include="bootstrap-3.3.6-dist\css\bootstrap-theme.min.css.map" />

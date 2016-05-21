@@ -83,20 +83,29 @@ namespace emprende
         protected void btngrabar_Click(object sender, EventArgs e)
         {
             Ecarrera c = new Ecarrera();
-            c.descripcion = this.txtdescripcion.Text;
+            c.descripcion = this.txtdescripcion.Text.ToUpper();
             c.idcarrera = (this.txtid.Text != "") ? int.Parse(this.txtid.Text) : 0;
             c.accion = (editar) ? "U" : "I";
             try
             {
-                Ncarrera.Sentencia(c);
+                int i = Ncarrera.Sentencia(c);
+                if (c.accion == "I")
+                    this.txtid.Text = i.ToString();
+
                 Habilitar(false);
                 Habilitar2(true);
                 buscar();
+                ScriptManager.RegisterStartupScript(this, GetType(), Guid.NewGuid().ToString(), "grabado();", true);
             }catch(Exception ex)
             {
 
             }
             
+        }
+
+        protected void txtbuscar_TextChanged(object sender, EventArgs e)
+        {
+            buscar();
         }
     }
 }

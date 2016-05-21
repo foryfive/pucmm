@@ -28,7 +28,7 @@
           <div runat="server" id="divbuscar" class="form-group">
              <div class="col-md-6">
                  <label>Buscar</label>
-                 <asp:TextBox runat="server" CssClass="form-control" ID="txtbuscar" />
+                 <asp:TextBox runat="server" CssClass="form-control" ID="txtbuscar" OnTextChanged="txtbuscar_TextChanged" />
              </div>   
           </div>
          <br/>
