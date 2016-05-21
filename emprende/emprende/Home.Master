@@ -6,11 +6,19 @@
 <head runat="server">
     
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+     <script src="js/jquery-2.2.4.min.js"></script>
+    
+     <script src="bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
+     <script src="js/notify.js"></script>
+
 
    <%-- css--%>
     <link href="bootstrap-3.3.6-dist/css/bootstrap.css" rel="stylesheet" />
     <link href="css/BoostrapCustom.css" rel="stylesheet" />
+   
 
+    
+   
 
 
 
@@ -55,10 +63,7 @@
         </asp:ContentPlaceHolder>
     </div>
          <%--   js--%>
-    <script src="js/jquery-2.2.4.min.js"></script>
-    <script src="bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
-    <script src="js/notify.js"></script>
-    <script src="js/js.js"></script>
+   
     </form>
     <br/>
     <br/>

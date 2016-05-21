@@ -42,9 +42,11 @@ namespace emprende
         {
             if (!IsPostBack)
             {
+                
                 Habilitar(false);
                 Habilitar2(false);
                 buscar();
+               
             }
         }
 
@@ -90,13 +92,15 @@ namespace emprende
             {
                 int i = Ncarrera.Sentencia(c);
                 if (c.accion == "I")
-                    this.txtid.Text = i.ToString();
+                    this.txtid.Text = i.ToString();            
 
                 Habilitar(false);
                 Habilitar2(true);
                 buscar();
-                ScriptManager.RegisterStartupScript(this, GetType(), Guid.NewGuid().ToString(), "grabado();", true);
-            }catch(Exception ex)
+                ScriptManager.RegisterStartupScript(this, GetType(), Guid.NewGuid().ToString(), "  $.notify('Datos Grabados!', 'success');", true);
+
+            }
+            catch(Exception ex)
             {
 
             }
