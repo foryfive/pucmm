@@ -26,7 +26,7 @@
 </style>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title></title>
+    <title runat="server" id="titulo" ></title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
@@ -52,7 +52,7 @@
                      <li><a href="Persona.aspx">Usuarios</a></li>  
                     <li><a href="Carrera.aspx">Carrera</a></li>
                      <li><a href="Proyecto.aspx">Publicar proyecto</a>                  
-                    </li>
+                    </li>                 
                      <li>
                          <a href="Salir.aspx">Cerrar Sesión</a>          
                     </li>

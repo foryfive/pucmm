@@ -30,6 +30,7 @@ namespace emprende
             if (dt.Rows.Count > 0)
             {
                 Session["login"] = dt.Rows[0]["idpersona"].ToString();
+                Session["usuario"] = dt.Rows[0]["usuario"].ToString();
                 Response.Redirect("Inicio.aspx");
                 FormsAuthentication.RedirectFromLoginPage(user, false);
             }

@@ -11,7 +11,8 @@ namespace emprende
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if (Session["usuario"] != null)
+                this.titulo.Text = Session["usuario"].ToString();
         }
 
 

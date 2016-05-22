@@ -4,8 +4,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     
-
-      <div class="container">
+      <div class="container con">
       <div class="col-md-10 col-md-offset-1 ">
         <div class="page-header">
             <h2>Mantenimiento Usuario</h2>
@@ -67,7 +66,7 @@
           </div>
          <br/>
          <asp:Panel runat="server" ID="panel" class="panel"  Height="100px" ScrollBars="Vertical" >     
-               <asp:GridView ID="Grid" CssClass="table table-bordered table-striped table-hover table-responsive" runat="server" AutoGenerateColumns="False" >
+               <asp:GridView ID="Grid" CssClass="table table-bordered table-striped table-hover table-responsive" runat="server" AutoGenerateColumns="False" DataKeyNames="rol,idcarrera,clave" OnSelectedIndexChanged="Grid_SelectedIndexChanged" >
                    <Columns>
                        <asp:CommandField ShowSelectButton="True" HeaderText="Seleccionar">
                        <HeaderStyle Width="100px" />
@@ -93,9 +92,9 @@
          <div class="form-group">
             <div class="col-md-12">
              <asp:LinkButton runat="server" ID="btnnuevo" CssClass="btn btn-primary" OnClick="btnnuevo_Click" ><span class="glyphicon glyphicon-plus" ></span> Nuevo</asp:LinkButton>
-             <asp:LinkButton runat="server" ID="btngrabar" CssClass="btn btn-primary"  ><span class="glyphicon glyphicon-floppy-disk" ></span> Grabar</asp:LinkButton>
+             <asp:LinkButton runat="server" ID="btngrabar" CssClass="btn btn-primary" OnClick="btngrabar_Click"  ><span class="glyphicon glyphicon-floppy-disk" ></span> Grabar</asp:LinkButton>
              <asp:LinkButton runat="server" ID="btncancelar" CssClass="btn btn-primary" OnClick="btncancelar_Click"  ><span class="glyphicon glyphicon-ban-circle" ></span> Cancelar</asp:LinkButton>
-             <asp:LinkButton runat="server" ID="btnmodificar" CssClass="btn btn-primary"><span class="glyphicon glyphicon-refresh" ></span> Modificar</asp:LinkButton>
+             <asp:LinkButton runat="server" ID="btnmodificar" CssClass="btn btn-primary" OnClick="btnmodificar_Click"><span class="glyphicon glyphicon-refresh" ></span> Modificar</asp:LinkButton>
              <asp:LinkButton runat="server" ID="btneliminar" CssClass="btn btn-primary" ><span class="glyphicon glyphicon-trash" ></span> Eliminar</asp:LinkButton>
             </div>  
          </div>
