@@ -1,0 +1,10 @@
+C:\Users\David\Desktop\pucmm\emprende\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\David\Desktop\pucmm\emprende\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\David\Desktop\pucmm\emprende\CapaDatos\bin\Release\CapaEntidades.dll
+C:\Users\David\Desktop\pucmm\emprende\CapaDatos\bin\Release\MySql.Data.dll
+C:\Users\David\Desktop\pucmm\emprende\CapaDatos\bin\Release\CapaEntidades.pdb
+C:\Users\David\Desktop\pucmm\emprende\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\pucmm\emprende\CapaDatos\obj\Release\CapaDatos.Properties.Resources.resources
+C:\Users\David\Desktop\pucmm\emprende\CapaDatos\obj\Release\CapaDatos.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\pucmm\emprende\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\David\Desktop\pucmm\emprende\CapaDatos\obj\Release\CapaDatos.pdb

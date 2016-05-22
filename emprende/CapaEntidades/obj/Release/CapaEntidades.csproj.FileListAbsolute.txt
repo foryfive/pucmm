@@ -1,0 +1,4 @@
+C:\Users\David\Desktop\pucmm\emprende\CapaEntidades\bin\Release\CapaEntidades.dll
+C:\Users\David\Desktop\pucmm\emprende\CapaEntidades\bin\Release\CapaEntidades.pdb
+C:\Users\David\Desktop\pucmm\emprende\CapaEntidades\obj\Release\CapaEntidades.dll
+C:\Users\David\Desktop\pucmm\emprende\CapaEntidades\obj\Release\CapaEntidades.pdb

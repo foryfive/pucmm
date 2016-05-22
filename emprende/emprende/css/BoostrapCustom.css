@@ -29,4 +29,38 @@ body {
 }
 h2{
     font-size:24px;
+    color: rgb(27, 110, 191);
 }
+
+.jumbotron {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 0px;
+  color:white;
+  background-color:#a5a5a5;
+}
+.navbar-inverse {
+  background-color: #0D2E4E;
+  border-color: #080808;
+  opacity:0.86;
+}
+.btn-primary {
+  color: #fff;
+  background-color:#13292f;
+  border-color: #2e6da4;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #ffffff!important;
+    font-size:13px;
+}
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: #c3c3c3!important;
+    font-size:18px;
+}
+.navbar-inverse .navbar-brand {
+      color: #ffffff!important;
+}
+.navbar-inverse .navbar-brand:hover {
+     color: #c3c3c3!important; 
+}
+

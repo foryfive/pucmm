@@ -17,7 +17,6 @@ namespace CapaDatos
             int id = 0;
             MySqlCommand cmd = new MySqlCommand("SentenciaPro_cat", con.con);
             cmd.CommandType = CommandType.StoredProcedure;
-            cmd.Parameters.Add("id", MySqlDbType.Int32).Value = procat.idpro_cat;
             cmd.Parameters.Add("idproyecto", MySqlDbType.Int32).Value = procat.idproyecto;
             cmd.Parameters.Add("idcategoria", MySqlDbType.Text).Value = procat.idcategoria;
             cmd.Parameters.Add("accion", MySqlDbType.Text).Value = procat.accion;
@@ -32,7 +31,6 @@ namespace CapaDatos
             {
                 con.Desconectar();
             }
-
 
             return id;
         }

@@ -40,7 +40,8 @@ namespace CapaDatos
             DataTable dt = new DataTable();
             MySqlDataAdapter da = new MySqlDataAdapter();
             MySqlCommand cmd = new MySqlCommand("SelectCategoria", con.con);
-            cmd.Parameters.Add("buscar", MySqlDbType.Text).Value = b;
+            cmd.Parameters.Add("Buscar", MySqlDbType.Text).Value = b;
+            cmd.CommandType = CommandType.StoredProcedure;
             da.SelectCommand = cmd;
             da.Fill(dt);
             return dt;

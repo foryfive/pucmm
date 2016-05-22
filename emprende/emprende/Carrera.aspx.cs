@@ -85,7 +85,7 @@ namespace emprende
         protected void btngrabar_Click(object sender, EventArgs e)
         {
             Ecarrera c = new Ecarrera();
-            c.descripcion = this.txtdescripcion.Text.ToUpper();
+          //  c.descripcion = this.txtdescripcion.Text.ToUpper();
             c.idcarrera = (this.txtid.Text != "") ? int.Parse(this.txtid.Text) : 0;
             c.accion = (editar) ? "U" : "I";
             try

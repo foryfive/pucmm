@@ -22,5 +22,10 @@ namespace CapaNegocio
             Dproyecto ca = new Dproyecto();
             return ca.Buscar(b);
         }
+        public static DataTable Buscar(int id)
+        {
+            Dproyecto ca = new Dproyecto();
+            return ca.Buscar(id);
+        }
     }
 }

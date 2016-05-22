@@ -7,11 +7,12 @@ using System.Web.UI.WebControls;
 
 namespace emprende
 {
-    public partial class Login : System.Web.UI.Page
+    public partial class Salir : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Session["login"] = "N";
+            Response.Redirect("Default.aspx");
         }
     }
 }

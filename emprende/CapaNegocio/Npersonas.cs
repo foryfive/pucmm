@@ -9,7 +9,7 @@ using CapaDatos;
 
 namespace CapaNegocio
 {
-    class Npersonas
+    public static class Npersonas
     {
         public static int Sentencia(Epersona c)
         {

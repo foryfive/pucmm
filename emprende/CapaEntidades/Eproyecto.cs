@@ -13,8 +13,9 @@ namespace CapaEntidades
         public int puntos { get; set; }
         public string descripcion { get; set; }
         public int idpersona { get; set; }
-        public char estado { get; set; }
-        public char accion { get; set; }
+        public string estado { get; set; }
+        public string accion { get; set; }
+        public string titulo { get; set; }
 
     }
 }

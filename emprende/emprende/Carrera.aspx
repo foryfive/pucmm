@@ -3,9 +3,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
-
-
-    <div class="container">
+    <div class="container con">
       <div class="col-md-10 col-md-offset-1 ">
         <div class="page-header">
             <h2>Mantenimiento Carrera</h2>
@@ -15,13 +13,13 @@
          <div class="form-group">
             <div class="col-md-3">
               <label>ID</label>
-              <asp:TextBox runat="server" CssClass="form-control" ID="txtid" ReadOnly="true" />
+              <asp:TextBox runat="server" CssClass="form-control" ID="txtid" ReadOnly="true" />            
             </div>
          </div>
          <div class="form-group">
              <div class="col-md-8">
                  <label>Descripción</label>
-                 <asp:TextBox runat="server" CssClass="form-control" ID="txtdescripcion" />
+                 <asp:TextBox runat="server" CausesValidation="true" CssClass="form-control" required="required" ID="txtdescripcion" />                 
              </div>   
          </div>
 
