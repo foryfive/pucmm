@@ -20,8 +20,9 @@ namespace emprende
                 html = "<div class='row well' >";
                 html += "<div class='col-md-8' >";
                 html += "<h2>"+item["titulo"].ToString()+"</h2>";
-                html += "<p>Fecha publicación "  + item["fechapublicacion"].ToString() + "</p>";
-                html += "<p>"+item["descripcion"].ToString()+"</p>";
+                html += "<p>Fecha publicación: "  + item["fechapublicacion"].ToString() + "</p>";
+                html += "<p>"+item["descripcion"].ToString()+"</p> <br/>";
+                html += "<label>Comentario</label>";
                 html += "<br/> <textarea class='form-control' cols='4' rows='2'  ></textarea>";
                 html += "<br/> <button class='btn btn-primary' >Publicar Comentario</button>";
                 html += "</div>";
